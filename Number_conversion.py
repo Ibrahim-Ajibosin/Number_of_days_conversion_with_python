@@ -36,4 +36,4 @@ def con(n):
 
    print(num_of_years,  num_of_months , num_of_wks, num_of_days)    
 
-con(1000)
+con(500)
